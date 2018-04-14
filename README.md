@@ -1,4 +1,4 @@
-# MTG CLI
+# CLI
 Go based CLI
 
 ## Usage
